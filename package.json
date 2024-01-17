@@ -1,0 +1,24 @@
+{
+  "name": "boyuna.tistory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyuun/boyuna.tistory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyuun/boyuna.tistory/issues"
+  },
+  "homepage": "https://github.com/boyuun/boyuna.tistory#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
