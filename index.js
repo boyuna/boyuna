@@ -5,12 +5,8 @@ import Parser from "rss-parser";
  * README.MD
  */
 
-let text = `# Hi there 👋
-
-## 이런 환경에 익숙해요✍🏼
-
-## 📕 Latest Blog Posts
-
+let text = `
+### 📕 Latest Blog Posts
 `;
 
 // rss-parser 생성

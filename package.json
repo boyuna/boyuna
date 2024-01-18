@@ -1,5 +1,5 @@
 {
-  "name": "boyuna.tistory",
+  "name": "boyuun",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/boyuun/boyuna.tistory/issues"
+    "url": "https://github.com/boyuun/boyuun/issues"
   },
-  "homepage": "https://github.com/boyuun/boyuna.tistory#readme",
+  "homepage": "https://github.com/boyuun/boyuun#readme",
   "dependencies": {
     "rss-parser": "^3.13.0"
   }
