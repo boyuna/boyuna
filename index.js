@@ -29,10 +29,6 @@ let text = `
   <br>
 
   <h3 align="center"> 📕 Latest Blog Posts 📕</h3>
-</div>
-
-
-
 
 `;
 
